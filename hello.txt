@@ -1,2 +1,4 @@
 echo 'Helo world!';
+echo 'Helo everybody!';
 echo 'Helo!!!';
+echo 'Helo my dear friend!';
