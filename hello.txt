@@ -1,2 +1,2 @@
-echo 'Helo world!';
-echo 'Helo!!!';
+echo 'Helo world!;';
+echo 'Helo!!!;';
